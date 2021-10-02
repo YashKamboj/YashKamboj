@@ -15,6 +15,6 @@
 <hr>
 
 <p align="center">
- <img margin-top="10%" src="./caf0f0be9c96bd2b9fdd842a7fd2a071.gif" />
+ <img margin="10%" src="./caf0f0be9c96bd2b9fdd842a7fd2a071.gif" />
 </p> 
 
