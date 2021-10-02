@@ -10,7 +10,7 @@
 
 ## Github Stats
 ![Yash's github stats](https://github-readme-stats.vercel.app/api?username=YashKamboj&show_icons=true&hide_border=true&bg&theme=material-palenight)
-<img align="right" width="20px" alt="" src="./1_IRGHmiGsa16stedQvIaZfw.gif" />
+<img align="right" width="20%" alt="" src="./1_IRGHmiGsa16stedQvIaZfw.gif" />
 
 <hr>
 
