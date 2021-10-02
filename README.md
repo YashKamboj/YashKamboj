@@ -2,7 +2,7 @@
 
 - Currently working on ...Web Development skills.
 - Looking to contribute on any opensouce project involving Web Development.
-- Learninh ... MERN stack.
+- Learning ... MERN stack.
 
 ## Reach me on:
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:yashkamboj29@gmail.com)
@@ -10,7 +10,7 @@
 
 ## Github Stats
 ![Yash's github stats](https://github-readme-stats.vercel.app/api?username=YashKamboj&show_icons=true&hide_border=true&bg&theme=material-palenight)
-<img align="right" width="35%"  alt="" src="./0_7Q3yvSIv_t0ioJ-Z.gif" />
+<img align="right" width="36%"  alt="" src="./0_7Q3yvSIv_t0ioJ-Z.gif" />
 
 <hr>
 
